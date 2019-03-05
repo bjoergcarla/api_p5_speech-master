@@ -80,6 +80,11 @@ function showResult() {
         };
         if (sentence.includes("programmering")) {
             image(javascript, 0, 240, 400, 370);
+
+            //Hej, jeg ligner et måltid og Bjørg er en feltmadras.
+            //Vi kan godt lide kakao.
+            //Vi har ret højt fravær og vi kan godt lide programmering.
+
         }
 
     }
