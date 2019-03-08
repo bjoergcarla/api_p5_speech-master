@@ -81,7 +81,7 @@ function showResult() {
               break;
             default:
               direction = "stop"
-          }
+        }
          
     }
 }
