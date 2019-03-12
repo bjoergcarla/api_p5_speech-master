@@ -3,7 +3,7 @@
 //Make a small drawing program with p5 speech 
 //reference: http://ability.nyu.edu/p5.js-speech/
 //Cloned fra Simons github
-//Bjørg
+//Bjørg, 2r
 
 let myRec, browserCompatible, pen, direction, displayWord;
 
